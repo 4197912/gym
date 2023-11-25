@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Griffy&family=Inter:wght@600&family=Josefin+Sans:ital,wght@1,300&family=M+PLUS+Rounded+1c:wght@800&family=Poppins:ital,wght@0,500;1,400&display=swap')
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ body{
+    background-color: #000;
+    color:yellow;
+    font-family:'inter',sans-serif ;
+} 
